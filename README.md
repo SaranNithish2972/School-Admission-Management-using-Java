@@ -1,4 +1,4 @@
-# School-Admission-Management
+# School_Admission_Management
 A Software for Higher Secondary Admission based on marks and categories where students are admitted based on their score and priority structure.
 <h2> Features </h2>
 1) Registration<br>
